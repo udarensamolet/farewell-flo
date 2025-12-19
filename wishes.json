@@ -4,6 +4,16 @@
     "message": "Sad to see you go! Who is going to fix my CSS z-index issues now? Best of luck!"
   },
   {
-    "name": "Test"
+    "name": "Test",
+    "message": "Checking if this works!"
+  },
+  {
+    "name": "Alex (Backend)",
+    "message": "May your new codebase be bug-free and your deployments always succeed. Farewell!",
+    "gif": "https://media.giphy.com/media/UDjF1zMreMld6/giphy.gif"
+  },
+  {
+    "name": "Sarah",
+    "message": "Going to miss our coffee breaks. Don't be a stranger!"
   }
 ]
