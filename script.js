@@ -8,15 +8,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 const card = document.createElement('div');
                 card.classList.add('card');
                 
-                // Optional: Check if GIF exists
                 const gifHtml = wish.gif ? `<img src="${wish.gif}" class="card-gif" alt="gif">` : '';
+
+                const avatarUrl = wish.avatar ? wish.avatar : `https://api.dicebear.com/7.x/avataaars/svg?seed=${encodeURIComponent(wish.name)}`;
+
+                const messageText = wish.message ? wish.message : "";
 
                 card.innerHTML = `
                     <div class="card-header">
-                        <img src="${wish.avatar}" class="avatar" alt="${wish.name}">
+                        <img src="${avatarUrl}" class="avatar" alt="${wish.name}">
                         <div class="author-name">${wish.name}</div>
                     </div>
-                    <div class="message">${wish.message}</div>
+                    <div class="message">${messageText}</div>
                     ${gifHtml}
                 `;
                 
