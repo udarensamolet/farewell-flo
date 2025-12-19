@@ -1,19 +1,51 @@
 [
   {
-    "name": "Rosi",
-    "message": "Sad to see you go! Who is going to fix my CSS z-index issues now? Best of luck!"
+    "name": "Stéphane",
+    "message": "Placeholder"
   },
   {
-    "name": "Test",
-    "message": "Checking if this works!"
+    "name": "Gilbert",
+    "message": "Placeholder"
   },
   {
-    "name": "Alex (Backend)",
-    "message": "May your new codebase be bug-free and your deployments always succeed. Farewell!",
+    "name": "Stanislav",
+    "message": "Placeholder",
     "gif": "https://media.giphy.com/media/UDjF1zMreMld6/giphy.gif"
   },
   {
-    "name": "Sarah",
+    "name": "Eric",
+    "message": "Placeholder"
+  },
+  {
+    "name": "Rositsa",
     "message": "Going to miss our coffee breaks. Don't be a stranger!"
+  },
+  {
+    "name": "Hamed",
+    "message": "Going to miss our coffee breaks. Don't be a stranger!"
+  },
+  {
+    "name": "Petar",
+    "message": "Placeholder"
+  },
+  {
+    "name": "Mario",
+    "message": "Placeholder"
+  },
+  {
+    "name": "Ivo",
+    "message": "Placeholder"
+  },  
+  {
+    "name": "Tsvetoslava",
+    "message": "Placeholder"
+  },
+  {
+    "name": "Georgi",
+    "message": "Placeholder"
+  },
+  {
+    "name": "Iskren",
+    "message": "Placeholder"
   }
 ]
